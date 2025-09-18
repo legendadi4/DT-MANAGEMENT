@@ -1,0 +1,16 @@
+{
+  "short_name": "Deepak Tailor",
+  "name": "Deepak Tailor",
+  "description": "A complete tailor shop management application for ladies specialists. Manage customers, measurements, orders, and billing with ease. Optimized for small Indian shops with multi-language support.",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "type": "image/svg+xml",
+      "sizes": "192x192 512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#4f46e5",
+  "background_color": "#f8fafc"
+}

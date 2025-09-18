@@ -1,0 +1,7 @@
+{
+  "name": "Deepak Tailor",
+  "description": "A complete tailor shop management application for ladies specialists. Manage customers, measurements, orders, and billing with ease. Optimized for small Indian shops with multi-language support.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
